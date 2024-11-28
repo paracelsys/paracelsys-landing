@@ -19,6 +19,7 @@ body {
 .container img {
   max-width: 100%;
   height: auto;
+  margin-top: -80px;
 }
 
 footer {
